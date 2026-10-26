@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="136" viewBox="0 0 800 136" role="img" aria-label="Inventory Pro: Products, suppliers and stock across several locations">
+<style>
+  text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+  .title { font-size: 23px; font-weight: 600; fill: #0f172a; }
+  .tag { font-size: 16px; fill: #475569; }
+  .chip { font-size: 13.5px; fill: #64748b; }
+  .note { font-size: 13.5px; font-weight: 600; fill: #0284c7; }
+
+  .rise { animation: rise .7s cubic-bezier(.2,.7,.2,1) both; }
+  .late { animation: fade .6s ease-out .35s both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
+  @media (prefers-reduced-motion: reduce) { .rise, .late, .flow { animation: none; } }
+</style>
+<g class="rise">
+  <rect x="1" y="1" width="798" height="134" rx="14" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="1" y="22" width="3" height="92" rx="1.5" fill="#0284c7"/>
+  <text x="32" y="48" class="title">Inventory Pro</text>
+  <text x="32" y="77" class="tag">Products, suppliers and stock across several locations</text>
+  <circle cx="37" cy="108" r="5" fill="#3572A5"/><text x="48" y="113" class="chip">Python</text><circle cx="119" cy="108" r="5" fill="#2BA977"/><text x="130" y="113" class="chip">Django</text><circle cx="201" cy="108" r="5" fill="#00758f"/><text x="212" y="113" class="chip">MySQL</text>
+  <text x="768" y="47" text-anchor="end" class="note late">CSV · Excel · PDF reports</text>
+</g>
+</svg>
