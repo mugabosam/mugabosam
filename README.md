@@ -19,11 +19,15 @@ I'm a software developer focused on backend engineering with Python. I like desi
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ### Projects
 
-My work is in my [repositories](https://github.com/mugabosam?tab=repositories). The pinned repositories below are the ones I'd most like you to see.
+**[Inventory Pro](https://github.com/mugabosam/inventory)** · Django · MySQL
+An inventory management web app for tracking products, categories, suppliers and stock across storage locations. It records stock transactions, supports low-stock alerts, logs user logins and registrations, and exports inventory reports as CSV, Excel and PDF.
+
+More of my work is in my [repositories](https://github.com/mugabosam?tab=repositories).
 
 ### Currently
 
